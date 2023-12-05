@@ -1,4 +1,4 @@
-title: Researcher
+title: Amélie Reymond
 url: "https://ameliereymond.github.io"
 
 markdown: kramdown
@@ -18,6 +18,8 @@ nav:
  - name: "About"
    link: "/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "resume"
  - name: "Contact"
    link: "contact"
+ - name: "Code"
+   link: https://github.com/ameliereymond

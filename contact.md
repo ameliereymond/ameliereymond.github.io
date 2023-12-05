@@ -3,24 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [attr@uw.edu](mailto:attr@uw.edu)
 
 ---
 
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+- [LinkedIn](https://www.linkedin.com/in/ameliettr/)
+- [Twitter](https://twitter.com/amelie_reymond)
