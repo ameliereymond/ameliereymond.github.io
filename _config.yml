@@ -1,6 +1,5 @@
 title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+url: "https://ameliereymond.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,7 +7,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
+footer_url: "https://github.com/ameliereymond"
 footer_text: "Page design by Ankit Sultana"
 
 sass:
@@ -17,7 +16,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
