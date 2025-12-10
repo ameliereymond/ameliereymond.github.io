@@ -11,12 +11,15 @@ body {
 
 h1, h2, h3, h4 {
   font-family: 'IBM Plex Serif', serif;
-  font-weight: 600; /* looks great for headings */
+  font-weight: 600; 
 }
 
 a {
   color: #1A4F8B !important;
+  text-decoration: underline;
 }
+
 a:hover {
   color: #10385F !important;
+  text-decoration: underline;
 }
