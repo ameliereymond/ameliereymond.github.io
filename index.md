@@ -32,4 +32,4 @@ In my free time, I enjoy reading, watching films, dancing, and learning to knit!
 - **Amélie Reymond**, Shane Steinert-Threlkeld. 2023.  
   *mSCAN: A Dataset for Multilingual Compositional Generalization Evaluation.*  
   In Proceedings of the [**GenBench Workshop at EMNLP 2023**](https://aclanthology.org/2023.genbench-1.11/).
-  [paper](mSCAN.pdf) / [poster](poster_mSCAN_genbench.pdf)
+  [poster](poster_mSCAN_genbench.pdf)

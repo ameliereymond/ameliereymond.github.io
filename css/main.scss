@@ -1,3 +1,22 @@
 ---
 ---
 @import "style";
+
+
+body {
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: 600; /* looks great for headings */
+}
+
+a {
+  color: #1A4F8B !important;
+}
+a:hover {
+  color: #10385F !important;
+}
