@@ -1,6 +1,13 @@
 @import "vars";
 
 .content {
+    p {
+        @media (min-width: $small-width) {
+            text-align: justify;
+            hyphens: auto;
+            hyphenate-limit-chars: 10;
+        }
+    }
     a:hover {
         text-decoration: underline;
     }
@@ -35,26 +42,5 @@
         margin: 20px 0 20px 0;
         padding: 2px 8px 2px 8px;
         font-style: italic;
-    }
-    .profile-picture {
-        height: $image-size;
-        width: $image-size;
-        position: relative;
-        margin: -10px 0 0 15px;
-        float: right;
-        border-radius: 50%;
-        p & {
-            padding: 0;
-            margin: 0;
-        }
-        @media (max-width: $small-width) {
-            img {
-                margin-top: -5px;
-            }
-        }
-    }
-    img {
-        text-align: center;
-        width: 100%;
     }
 }

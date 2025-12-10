@@ -64,13 +64,55 @@ hr {
 
 /* Divs */
 
+.wrapper {
+    min-height: 100%;
+    margin: 0 1em;
+}
+
 .container {
     max-width: $max-width;
     margin: auto;
 }
-.wrapper {
-    min-height: 100%;
+
+.column-layout {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 2rem;
+    max-width: 1800px;
+    margin: 0 auto;
+
+    .picture-column img {
+        display: block;
+        margin: 1em 0;
+        height: $image-size;
+        width: $image-size;
+    }
+
+    .text-column {
+        flex: 1;
+        max-width: 1200px;
+    }
 }
+
+@media (max-width: 800px) {
+    .column-layout {
+        gap: 0;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .text-column {
+        min-width: none;
+    }
+
+    .picture-column {
+        order: -1; /* bring picture above the text */
+        margin-top: 1rem;
+    }
+}
+
 
 /* Institute Image */
 

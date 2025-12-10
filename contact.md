@@ -9,4 +9,3 @@ is_contact: true
 
 - [LinkedIn](https://www.linkedin.com/in/ameliettr/)
 - [Twitter](https://twitter.com/amelie_reymond)
-- 
