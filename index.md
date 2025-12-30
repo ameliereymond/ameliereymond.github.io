@@ -10,7 +10,7 @@ I recently graduated with a Master’s degree in Computational Linguistics from 
 Previously, I worked as a Generative AI Analyst at NVIDIA, where I worked on tooling and quality monitoring for LLM annotation projects. Before that, I completed undergraduate degrees in Computer Science and Philosophy at Sorbonne Université (previously known as Université Paris-Sorbonne, Paris IV and Université Pierre et Marie Curie, Paris VI), and in English at Université Sorbonne Nouvelle.
 
 I'm broadly interested in 
-- how language interacts with other cognitive processes (such as in semantic cognition, generalization and reasoning) in humans and language models
+- how language interacts with other cognitive processes (such as semantic cognition, generalization and reasoning) in humans and language models
 - how AI systems shape, mediate, and reproduce social and cultural information
 - methodological and philosophical questions about how knowledge is produced and evaluated (in general but particularly in AI research)
 
