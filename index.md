@@ -7,11 +7,14 @@ alt: Profile picture
 
 I recently graduated with a Master’s degree in Computational Linguistics from the University of Washington, where I was advised by [Shane Steinert-Threlkeld](https://www.shane.st/). I currently work with [Saloni Dash](https://salonidash.com/) and [Aylin Caliskan](https://faculty.washington.edu/aylin/) at UW’s Information School on reasoning and AI bias.
 
-Previously, I worked as a Generative AI Analyst at NVIDIA, where I worked on tooling and quality monitoring for LLM annotation projects. Before that, I completed undergraduate degrees in Computer Science and Philosophy at Sorbonne Université (previously known as Universités Paris-Sorbonne and Pierre et Marie Curie), and in English at Sorbonne Nouvelle.
+Previously, I worked as a Generative AI Analyst at NVIDIA, where I worked on tooling and quality monitoring for LLM annotation projects. Before that, I completed undergraduate degrees in Computer Science and Philosophy at Sorbonne Université (previously known as Université Paris-Sorbonne, Paris IV and Université Pierre et Marie Curie, Paris VI), and in English at Université Sorbonne Nouvelle.
 
-I'm broadly interested in how language interacts with other cognitive processes, specifically semantic cognition, generalization and reasoning and in both humans and language models.
+I'm broadly interested in 
+- how language interacts with other cognitive processes (such as in semantic cognition, generalization and reasoning) in humans and language models
+- how AI systems shape, mediate, and reproduce social and cultural information
+- methodological and philosophical questions about how knowledge is produced and evaluated 
 
-In my free time, I enjoy reading, watching films, dancing, and learning to knit! 
+In my free time, I enjoy [reading](https://www.goodreads.com/user/show/90508390-am-lie), watching [films](https://letterboxd.com/hypatiattr/), dancing, and learning to knit! 
 
 
 
