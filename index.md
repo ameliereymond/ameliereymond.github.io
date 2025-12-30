@@ -12,7 +12,7 @@ Previously, I worked as a Generative AI Analyst at NVIDIA, where I worked on too
 I'm broadly interested in 
 - how language interacts with other cognitive processes (such as in semantic cognition, generalization and reasoning) in humans and language models
 - how AI systems shape, mediate, and reproduce social and cultural information
-- methodological and philosophical questions about how knowledge is produced and evaluated 
+- methodological and philosophical questions about how knowledge is produced and evaluated (in general but particularly in AI research)
 
 In my free time, I enjoy [reading](https://www.goodreads.com/user/show/90508390-am-lie), watching [films](https://letterboxd.com/hypatiattr/), dancing, and learning to knit! 
 
